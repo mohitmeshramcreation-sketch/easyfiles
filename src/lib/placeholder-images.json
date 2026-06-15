@@ -1,0 +1,16 @@
+{
+  "placeholderImages": [
+    {
+      "id": "og-image",
+      "description": "EasyFiles AI Document Tools Open Graph Image",
+      "imageUrl": "https://picsum.photos/seed/easyfiles-og/1200/630",
+      "imageHint": "modern document technology"
+    },
+    {
+      "id": "twitter-image",
+      "description": "EasyFiles AI Document Tools Twitter Card Image",
+      "imageUrl": "https://picsum.photos/seed/easyfiles-twitter/1200/630",
+      "imageHint": "AI workspace"
+    }
+  ]
+}
